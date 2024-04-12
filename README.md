@@ -1,1 +1,1 @@
-# PhanTan
+# Student Management Application
